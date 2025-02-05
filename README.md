@@ -61,37 +61,10 @@ With an **intuitive GUI using Gradio**, **FileConvertor** allows users to **uplo
 
 ---
 
-### **🎯 Use Cases**  
-✔️ **Students & Professionals** - Easily convert assignments, reports, and presentations.  
-✔️ **Researchers & Academics** - Convert research papers and presentations.  
-✔️ **Businesses** - Streamline document processing and conversion.  
-
----
-
 ### **💡 Future Enhancements**  
 🚀 **Batch File Conversion** - Support for multiple files at once.  
 🚀 **More Formats** - Add support for XLSX, TXT, and EPUB.  
 🚀 **Cloud Storage Integration** - Direct upload/download from Google Drive.  
 🚀 **AI-based Text Extraction** - Extract and format text intelligently.  
 
----
 
-### **🤝 Contributing**  
-Want to improve **FileConvertor**? Contributions are welcome!  
-- Fork the repo and create a pull request.  
-- Report bugs or suggest features in the **Issues** section.  
-
----
-
-### **📜 License**  
-This project is open-source and available under the **MIT License**.  
-
----
-
-### **📞 Contact**  
-💻 **GitHub:** [your-repo-link](https://github.com/your-username/FileConvertor)  
-📧 **Email:** your-email@example.com  
-
----
-
-Let me know if you'd like any modifications! 🚀🔥
